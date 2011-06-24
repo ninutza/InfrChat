@@ -4,7 +4,7 @@
 enum {
   AM_INFRMSG = 168,
   INFRMSG_PER = 1024, // time between transmissions, in ms
-  DATASIZE = 10      // size of effective data
+  DATASIZE = 30      // size of effective data
 };
 
 
